@@ -1,0 +1,21 @@
+{
+  "address": {
+    "city": "Bengaluru",
+    "postalCode": 560057,
+    "state": "Karnataka"
+  },
+  "years": 15,
+  "firstName": "Jain",
+  "isWorking": false,
+  "lastName": "Fet",
+  "phoneNos": [
+    {
+      "number": "64-344-123",
+      "type": "reception"
+    },
+    {
+      "number": "123-456-78",
+      "type": "office"
+    }
+  ]
+}
